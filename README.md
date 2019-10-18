@@ -1,2 +1,0 @@
-# FrontEndJobCompare
-Created with CodeSandbox
